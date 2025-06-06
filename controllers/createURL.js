@@ -25,7 +25,7 @@ export const createURL = async (req, res) => {
     shortURL: shortenURL,
   });
 
-  const domain = process.env.BASE_URL || 'https://shortenurl.site';
+  const domain = process.env.BASE_URL || 'https://shorten-url-backend-npot.onrender.com';
   res.status(201).json([shortenURL, domain]);
 
 };
