@@ -2,12 +2,22 @@ hello! Thank you to view my code!😊
 
 This URL shortener is my first ever system design related project.
 
+## 🌐 Live Preview
+
+You can try the app here:  
+🔗 [URL Shortener Live Demo](https://url-shortener-by-syed.netlify.app)
+
+## 📁 Repo Link
+
+🛠️ [Backend Code](https://github.com/Syed-Ibrahim786/url-shortener)  
+🎨 [Frontend Code](https://github.com/Syed-Ibrahim786/url-shortener)
+
+
 
 # 🔗 URL Shortener App
 
 A simple and efficient URL Shortener web application built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It allows users to shorten long URLs and redirect using custom or system-generated short links.
 
----
 
 ## 🚀 Features
 
@@ -17,7 +27,6 @@ A simple and efficient URL Shortener web application built with the **MERN stack
 - 📊 Tracks usage (can be extended)
 - ⚡ Built using modern tools (Vite, React, Node, Express)
 
----
 
 ## 🛠️ Tech Stack
 
@@ -25,7 +34,6 @@ A simple and efficient URL Shortener web application built with the **MERN stack
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (with Mongoose)
 
----
 ## **Abstract view**
 
 Just like traditional shortener, the server side script gets POST request along with :
