@@ -10,7 +10,7 @@ You can try the app here:
 ## 📁 Repo Link
 
 🛠️ [Backend Code](https://github.com/Syed-Ibrahim786/url-shortener)  
-🎨 [Frontend Code](https://github.com/Syed-Ibrahim786/url-shortener)
+🎨 [Frontend Code](https://github.com/Syed-Ibrahim786/url-shortener-frontend)
 
 
 
